@@ -12,7 +12,7 @@ public class ColorChangeViewController: UIViewController
 {
     private lazy var myColor : ColorTool = ColorTool()
     
-    @IBOutlet weak var firstButton : UIButton!
+    IB@IBOutlet weak var firstButton : UIButton!
     
     public override func viewDidLoad() -> Void
     {
